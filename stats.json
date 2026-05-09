@@ -1,0 +1,1016 @@
+{
+  "assetsByChunkName": {
+    "main": [
+      "main.7db6836d9d72035323ec.js",
+      "main.7db6836d9d72035323ec.js.map"
+    ]
+  },
+  "assets": [
+    {
+      "type": "assets by status",
+      "cached": true,
+      "filteredChildren": 2,
+      "size": 279666
+    }
+  ],
+  "chunks": [
+    {
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "recorded": false,
+      "size": 1014271,
+      "sizes": {
+        "javascript": 1012124,
+        "runtime": 2147
+      },
+      "names": [
+        "main"
+      ],
+      "idHints": [],
+      "runtime": [
+        "main"
+      ],
+      "files": [
+        "main.7db6836d9d72035323ec.js"
+      ],
+      "auxiliaryFiles": [
+        "main.7db6836d9d72035323ec.js.map"
+      ],
+      "hash": "d6449a3d5174c8c534a6",
+      "childrenByOrder": {}
+    }
+  ],
+  "modules": [
+    {
+      "type": "orphan modules",
+      "orphan": true,
+      "filteredChildren": 17,
+      "size": 530392,
+      "sizes": {
+        "javascript": 530392
+      }
+    },
+    {
+      "type": "runtime modules",
+      "moduleType": "runtime",
+      "filteredChildren": 6,
+      "size": 2147,
+      "sizes": {
+        "runtime": 2147
+      }
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/esm",
+      "layer": null,
+      "size": 391103,
+      "sizes": {
+        "javascript": 391103
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx|e333a94e96da1d5b31e7172f540407b1",
+      "name": "./src/index.tsx + 11 modules",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+      "index": 0,
+      "preOrderIndex": 0,
+      "index2": 32,
+      "postOrderIndex": 32,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 186,
+      "sizes": {
+        "javascript": 186
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react\\index.js",
+      "name": "./node_modules/react/index.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react\\index.js",
+      "index": 1,
+      "preOrderIndex": 1,
+      "index2": 1,
+      "postOrderIndex": 1,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+      "issuerName": "./src/index.tsx",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1373,
+      "sizes": {
+        "javascript": 1373
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\client.js",
+      "name": "./node_modules/react-dom/client.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\client.js",
+      "index": 3,
+      "preOrderIndex": 3,
+      "index2": 7,
+      "postOrderIndex": 7,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+      "issuerName": "./src/index.tsx",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 17217,
+      "sizes": {
+        "javascript": 17217
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react\\cjs\\react.production.js",
+      "name": "./node_modules/react/cjs/react.production.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react\\cjs\\react.production.js",
+      "index": 2,
+      "preOrderIndex": 2,
+      "index2": 0,
+      "postOrderIndex": 0,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react\\index.js",
+      "issuerName": "./node_modules/react/index.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react\\index.js",
+          "name": "./node_modules/react/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 536016,
+      "sizes": {
+        "javascript": 536016
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom-client.production.js",
+      "name": "./node_modules/react-dom/cjs/react-dom-client.production.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom-client.production.js",
+      "index": 4,
+      "preOrderIndex": 4,
+      "index2": 6,
+      "postOrderIndex": 6,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\client.js",
+      "issuerName": "./node_modules/react-dom/client.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\client.js",
+          "name": "./node_modules/react-dom/client.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 194,
+      "sizes": {
+        "javascript": 194
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\scheduler\\index.js",
+      "name": "./node_modules/scheduler/index.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\scheduler\\index.js",
+      "index": 5,
+      "preOrderIndex": 5,
+      "index2": 3,
+      "postOrderIndex": 3,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom-client.production.js",
+      "issuerName": "./node_modules/react-dom/cjs/react-dom-client.production.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\client.js",
+          "name": "./node_modules/react-dom/client.js"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom-client.production.js",
+          "name": "./node_modules/react-dom/cjs/react-dom-client.production.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1359,
+      "sizes": {
+        "javascript": 1359
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\index.js",
+      "name": "./node_modules/react-dom/index.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\index.js",
+      "index": 7,
+      "preOrderIndex": 7,
+      "index2": 5,
+      "postOrderIndex": 5,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom-client.production.js",
+      "issuerName": "./node_modules/react-dom/cjs/react-dom-client.production.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\client.js",
+          "name": "./node_modules/react-dom/client.js"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom-client.production.js",
+          "name": "./node_modules/react-dom/cjs/react-dom-client.production.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 10181,
+      "sizes": {
+        "javascript": 10181
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\scheduler\\cjs\\scheduler.production.js",
+      "name": "./node_modules/scheduler/cjs/scheduler.production.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\scheduler\\cjs\\scheduler.production.js",
+      "index": 6,
+      "preOrderIndex": 6,
+      "index2": 2,
+      "postOrderIndex": 2,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\scheduler\\index.js",
+      "issuerName": "./node_modules/scheduler/index.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\client.js",
+          "name": "./node_modules/react-dom/client.js"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom-client.production.js",
+          "name": "./node_modules/react-dom/cjs/react-dom-client.production.js"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\scheduler\\index.js",
+          "name": "./node_modules/scheduler/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 6655,
+      "sizes": {
+        "javascript": 6655
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom.production.js",
+      "name": "./node_modules/react-dom/cjs/react-dom.production.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom.production.js",
+      "index": 8,
+      "preOrderIndex": 8,
+      "index2": 4,
+      "postOrderIndex": 4,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\index.js",
+      "issuerName": "./node_modules/react-dom/index.js",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\client.js",
+          "name": "./node_modules/react-dom/client.js"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\cjs\\react-dom-client.production.js",
+          "name": "./node_modules/react-dom/cjs/react-dom-client.production.js"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\react-dom\\index.js",
+          "name": "./node_modules/react-dom/index.js"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2480,
+      "sizes": {
+        "javascript": 2480
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+      "name": "./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\injectStylesIntoStyleTag.js",
+      "index": 13,
+      "preOrderIndex": 13,
+      "index2": 9,
+      "postOrderIndex": 9,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1534,
+      "sizes": {
+        "javascript": 1534
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\styleDomAPI.js",
+      "name": "./node_modules/style-loader/dist/runtime/styleDomAPI.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\styleDomAPI.js",
+      "index": 14,
+      "preOrderIndex": 14,
+      "index2": 10,
+      "postOrderIndex": 10,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1003,
+      "sizes": {
+        "javascript": 1003
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\insertBySelector.js",
+      "name": "./node_modules/style-loader/dist/runtime/insertBySelector.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\insertBySelector.js",
+      "index": 15,
+      "preOrderIndex": 15,
+      "index2": 11,
+      "postOrderIndex": 11,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 298,
+      "sizes": {
+        "javascript": 298
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\setAttributesWithoutAttributes.js",
+      "name": "./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\setAttributesWithoutAttributes.js",
+      "index": 16,
+      "preOrderIndex": 16,
+      "index2": 12,
+      "postOrderIndex": 12,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 285,
+      "sizes": {
+        "javascript": 285
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\insertStyleElement.js",
+      "name": "./node_modules/style-loader/dist/runtime/insertStyleElement.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\insertStyleElement.js",
+      "index": 17,
+      "preOrderIndex": 17,
+      "index2": 13,
+      "postOrderIndex": 13,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 380,
+      "sizes": {
+        "javascript": 380
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\styleTagTransform.js",
+      "name": "./node_modules/style-loader/dist/runtime/styleTagTransform.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\runtime\\styleTagTransform.js",
+      "index": 18,
+      "preOrderIndex": 18,
+      "index2": 14,
+      "postOrderIndex": 14,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 11154,
+      "sizes": {
+        "javascript": 11154
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\Form.css",
+      "name": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/Form.css",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\Form.css",
+      "index": 19,
+      "preOrderIndex": 19,
+      "index2": 17,
+      "postOrderIndex": 17,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\Form.css",
+      "issuerName": "./src/components/styles/Form.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\Form.tsx",
+          "name": "./src/pages/Form.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\Form.css",
+          "name": "./src/components/styles/Form.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 498,
+      "sizes": {
+        "javascript": 498
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\mobileopt.css",
+      "name": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/mobileopt.css",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\mobileopt.css",
+      "index": 23,
+      "preOrderIndex": 23,
+      "index2": 19,
+      "postOrderIndex": 19,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\mobileopt.css",
+      "issuerName": "./src/components/styles/mobileopt.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\Form.tsx",
+          "name": "./src/pages/Form.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\mobileopt.css",
+          "name": "./src/components/styles/mobileopt.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 1053,
+      "sizes": {
+        "javascript": 1053
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "name": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/TodoPage.css",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "index": 26,
+      "preOrderIndex": 26,
+      "index2": 22,
+      "postOrderIndex": 22,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 10484,
+      "sizes": {
+        "javascript": 10484
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\secretPage.css",
+      "name": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/secretPage.css",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\secretPage.css",
+      "index": 29,
+      "preOrderIndex": 29,
+      "index2": 25,
+      "postOrderIndex": 25,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\secretPage.css",
+      "issuerName": "./src/components/styles/secretPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\secretPage.tsx",
+          "name": "./src/pages/secretPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\secretPage.css",
+          "name": "./src/components/styles/secretPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 15863,
+      "sizes": {
+        "javascript": 15863
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\CreateAccountForm.css",
+      "name": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/CreateAccountForm.css",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\CreateAccountForm.css",
+      "index": 32,
+      "preOrderIndex": 32,
+      "index2": 28,
+      "postOrderIndex": 28,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\CreateAccountForm.css",
+      "issuerName": "./src/components/styles/CreateAccountForm.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\CreateAccountForm.tsx",
+          "name": "./src/pages/CreateAccountForm.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\CreateAccountForm.css",
+          "name": "./src/components/styles/CreateAccountForm.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 505,
+      "sizes": {
+        "javascript": 505
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+      "name": "./node_modules/css-loader/dist/runtime/sourceMaps.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\runtime\\sourceMaps.js",
+      "index": 20,
+      "preOrderIndex": 20,
+      "index2": 15,
+      "postOrderIndex": 15,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    },
+    {
+      "type": "module",
+      "moduleType": "javascript/auto",
+      "layer": null,
+      "size": 2303,
+      "sizes": {
+        "javascript": 2303
+      },
+      "built": true,
+      "codeGenerated": true,
+      "buildTimeExecuted": false,
+      "cached": false,
+      "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "name": "./node_modules/css-loader/dist/runtime/api.js",
+      "nameForCondition": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\runtime\\api.js",
+      "index": 21,
+      "preOrderIndex": 21,
+      "index2": 16,
+      "postOrderIndex": 16,
+      "cacheable": true,
+      "optional": false,
+      "orphan": false,
+      "issuer": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+      "issuerName": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/TodoPage.css",
+      "issuerPath": [
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\index.tsx",
+          "name": "./src/index.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\App.tsx",
+          "name": "./src/App.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\babel-loader\\lib\\index.js??ruleSet[1].rules[0].use[0]!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\pages\\TodoPage.tsx",
+          "name": "./src/pages/TodoPage.tsx"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\style-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./src/components/styles/TodoPage.css"
+        },
+        {
+          "identifier": "C:\\Users\\mi123\\Desktop\\react-ts-webpack\\node_modules\\css-loader\\dist\\cjs.js!C:\\Users\\mi123\\Desktop\\react-ts-webpack\\src\\components\\styles\\TodoPage.css",
+          "name": "./node_modules/css-loader/dist/cjs.js!./src/components/styles/TodoPage.css"
+        }
+      ],
+      "failed": false,
+      "errors": 0,
+      "warnings": 0
+    }
+  ]
+}
