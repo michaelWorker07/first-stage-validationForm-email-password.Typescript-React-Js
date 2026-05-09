@@ -1,0 +1,222 @@
+body { 
+    font-family: Arial, sans-serif; 
+    background: linear-gradient(#c0c0c0, #2a2a2a) no-repeat fixed;
+}
+
+.formcontainer {
+    display: flex;
+    justify-content: center; 
+    flex-direction: column; 
+    align-items: center;      
+    min-height: 100vh;
+    width: 100%;
+}
+
+.formauthmain {
+    color: rgb(85, 78, 78);
+    display: flex;
+    flex-direction: column; 
+    align-items: stretch;
+    gap: 20px;             
+    padding: 40px;
+    border-radius: 20px;
+    width: 100%;
+    max-width: 400px;
+}
+
+@keyframes slideInFromLeft {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+
+.formauthmain {
+    animation: slideInFromLeft 0.6s ease-out;
+}
+
+
+.formcontainer > div {
+    animation: slideInFromLeft 0.6s ease-out;
+}
+
+.formcontainer img {
+    animation: slideInFromLeft 0.6s ease-out;
+}
+
+
+
+.formauthmain input {
+    width: 100%;
+    padding: 16px 20px;     
+    background: rgba(255, 255, 255, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    color: white;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.formauthmain input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+    font-size: 15px;
+}
+
+.checkboxremeberme {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    color: white;
+    font-size: 14px;
+}
+
+.checkboxremeberme input {
+    width: 16px;
+    height: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.checkboxremeberme label {
+    white-space: nowrap;
+    margin: 0;
+    padding-left: 8px;
+    flex: 1;
+}
+
+
+
+.labelRememberMe {
+    font-weight: normal;
+}
+
+.forgotpasswordlink {
+    color: white;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+.forgotpasswordlink:hover {
+    text-decoration: underline;
+}
+
+.entrancebtn {
+    color: white;
+    width: 100%;
+    padding: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background: rgb(174, 179, 179);
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.entrancebtn:hover {
+    background: #000000;
+    transform: scale(1.02);
+    transition: all 0.3s;
+}
+
+.iconFormImg {
+    width: 200px;
+    height: 200px;
+}
+
+.error-modal-form {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(85, 83, 83, 0.95);  
+    backdrop-filter: blur(8px);           
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    border-radius: 0px;
+}
+
+.error-modal-content-form {
+    background: rgba(116, 112, 112, 0.1);
+    border-radius: 24px;
+    padding: 40px;
+    width: 90%;
+    max-width: 380px;
+    text-align: center;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    
+}
+
+
+.error-modal-server {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(85, 83, 83, 0.95);  
+    backdrop-filter: blur(8px);           
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    border-radius: 0px;
+}
+
+.error-modal-server-content {
+    background: rgba(116, 112, 112, 0.1);
+    border-radius: 24px;
+    padding: 40px;
+    width: 90%;
+    max-width: 380px;
+    text-align: center;
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+    
+}
+
+.error-modal-form,
+.error-modal-server,
+.error-modal-content-form,
+.error-modal-server-content {
+    animation: fadeIn 0.9s ease-out !important;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.create-acc {
+    margin-bottom: 20px;
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    font-size: 14px;
+    opacity: 0.8;
+}
+
+.create-acc:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
+
+
